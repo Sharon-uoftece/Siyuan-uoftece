@@ -1,6 +1,6 @@
 - 👋              Hi, I’m Sharon.
 - 👀              I’m interested in Software Development, Full Stack Development and Machine Learning.
-- 🌱  I’m currently working on a ML project where we use active learning principle which uses experts' inputs to better classify data along the boundary pretrained by supervised learning.  
+- 🌱  I’m currently working on a active machine learning project where we uses experts' inputs to better classify data along the boundary pretrained by supervised learning.  
 - 💞️  I’m looking to collaborate on digital game development/AI game algorithms.
 - 📫  mail: sharonsiyuan.li@mail.utoronto.ca
 
