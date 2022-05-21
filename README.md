@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siyuan-uoftece
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sharon Li
+- 👀 I’m interested in Software Development, Full Stack Development and Machine Learning
+- 🌱 I’m currently learning active machine learning where we use experts' inputs to better classify data along the boundary pretrained by supervised learning.  
+- 💞️ I’m looking to collaborate on digital game development/AI game algorithms.
+- 📫 mail: sharonsiyuan.li@mail.utoronto.ca
 
 <!---
 Siyuan-uoftece/Siyuan-uoftece is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
